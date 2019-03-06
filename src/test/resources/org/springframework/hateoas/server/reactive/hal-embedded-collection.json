@@ -1,0 +1,40 @@
+{
+  "_embedded" : {
+    "authors" : [ {
+      "name" : "Greg L. Turnquist",
+      "_links" : {
+        "self" : {
+          "href" : "/author/1"
+        },
+        "authors" : {
+          "href" : "/authors"
+        }
+      }
+    }, {
+      "name" : "Craig Walls",
+      "_links" : {
+        "self" : {
+          "href" : "/author/2"
+        },
+        "authors" : {
+          "href" : "/authors"
+        }
+      }
+    }, {
+      "name" : "Oliver Drotbhom",
+      "_links" : {
+        "self" : {
+          "href" : "/author/2"
+        },
+        "authors" : {
+          "href" : "/authors"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "/authors"
+    }
+  }
+}
